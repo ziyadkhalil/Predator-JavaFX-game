@@ -51,7 +51,6 @@ hs_err_pid7260.log
 hs_err_pid8908.log
 manifest.mf
 nbproject/
-out/
 policeman.psd
 predatormask__0012_run_1.png
 predatormask__0013_run_2.png
@@ -71,4 +70,3 @@ replay_pid24144.log
 replay_pid25528.log
 replay_pid3716.log
 replay_pid8908.log
-src/
